@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+gem install bundler github-pages --user-install
+bundle install
