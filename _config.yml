@@ -65,11 +65,11 @@ device: iphone-x-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
-background_image: /images/backgrounds/31-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
-text_color: white # Optional
+background_color: white # Optional
+# background_image: /images/backgrounds/31-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+text_color: black # Optional
 link_color: "#0191FF" # Optional
-social_link_color: white # Optional
+social_link_color: "#0191FF" # Optional
 download_button_background_color: "#0191FF" # Optional
 download_button_text_color: white; # Optional
 

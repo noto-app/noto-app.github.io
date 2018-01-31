@@ -66,6 +66,12 @@ a:hover {
 
 .footer {
   padding-bottom: 50px;
+  text-align: center;
+}
+
+.footer .lac {
+  height: 100px;
+  width: 100px
 }
 
 //
@@ -93,11 +99,15 @@ a:hover {
   // max-width: 450px;
   // white-space: pre-wrap;
   text-indent: 0;
+  text-align: justify;
+  text-justify: auto;
   // font-weight: 500;
 }
 
 .marketing-desc p {
   margin: 20px auto 20px;
+  text-align: justify;
+  text-justify: auto;
 }
 
 //
