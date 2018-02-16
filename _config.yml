@@ -35,12 +35,12 @@ marketing_header: Email yourself. Fast. # Optional
 # Includes an icon for each username you enter
 #
 social-links:
-  github: noto-app
+  github: notofyi
   facebook:
-  twitter:
+  twitter: notofyi
   pinterest:
   instagram:
-  email: noto-app@googlegroups.com
+  email: notofyi@googlegroups.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
